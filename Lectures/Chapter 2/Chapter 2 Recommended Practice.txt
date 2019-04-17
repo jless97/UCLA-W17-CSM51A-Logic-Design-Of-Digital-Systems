@@ -1,0 +1,8 @@
+Practice exercises (Lecture 2)
+
+DO NOT TURN THEM IN. DO AS MANY AS YOU WISH.
+
+1. Show a system to control a stairwell light L from three floors using
+switches S1, S2, and S3.
+
+2. Solve 2.1, 2.6, 2.7, 2.11, 2.21, 2.24b,d,e, 2.26 (from the book)
